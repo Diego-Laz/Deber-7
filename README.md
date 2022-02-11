@@ -44,6 +44,17 @@ capitulo 13
 
 capitulo 14
 
+![image](https://user-images.githubusercontent.com/93835463/153546585-47cd5c72-5e05-4031-a1b2-72cd5f5c627c.png)
+![image](https://user-images.githubusercontent.com/93835463/153546595-d037b7f4-1c94-4f0c-ae5e-1553115df64f.png)
+![image](https://user-images.githubusercontent.com/93835463/153546607-9db33100-a17e-4774-8d11-d1e65269f372.png)
+![image](https://user-images.githubusercontent.com/93835463/153546678-c06976e0-99fd-4a50-9415-44010d13d169.png)
+![image](https://user-images.githubusercontent.com/93835463/153546691-01115cdc-777c-4c7a-8efa-9b09b266e5b3.png)
+![image](https://user-images.githubusercontent.com/93835463/153546703-6d9fd152-6bd1-4d33-b4de-199c1ccffe4e.png)
+![image](https://user-images.githubusercontent.com/93835463/153546726-c9129f5b-ac6b-466d-93fa-850abf102c0d.png)
+![image](https://user-images.githubusercontent.com/93835463/153546786-5b26cd70-621c-4cbe-a212-95291f32a2e3.png)
+
+
+
 VIDEOS:
 
 CONCLUSIONES:
