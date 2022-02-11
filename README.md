@@ -71,7 +71,7 @@ capitulo 14
 VIDEOS:
 
 CONCLUSIONES:
--
+-En el presente tema pudimos observar un nuevo componente principal en varios circuitos que ya toman un nivel un tanto mayor de complejidad, los inductores, asi analizando sus propiedades electricas asi como el que sucede al conectarlos de diferentes maneras asi como su instalacion en circuitos del tipo CD y CA
 
 BIBLIOGRAFÍA:
 
