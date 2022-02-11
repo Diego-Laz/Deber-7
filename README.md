@@ -44,6 +44,14 @@ capitulo 13
 ![image](https://user-images.githubusercontent.com/93835463/153546985-e2bb13cc-f847-4804-8679-5af4183186b8.png)
 ![image](https://user-images.githubusercontent.com/93835463/153547539-6c0a8600-2744-4313-ae5a-4e39d3687db1.png)
 ![image](https://user-images.githubusercontent.com/93835463/153547687-bd973b20-3b19-48d9-9b8b-fe05834f4a21.png)
+![image](https://user-images.githubusercontent.com/93835463/153550036-49550b99-4066-4203-a9c8-bc0cca3f67d9.png)
+![image](https://user-images.githubusercontent.com/93835463/153550074-c44658ca-2b19-4188-99e8-6787dbd2dfeb.png)
+![image](https://user-images.githubusercontent.com/93835463/153550094-a9114058-9f9b-48c4-885e-e5812c0e0ccd.png)
+![image](https://user-images.githubusercontent.com/93835463/153550163-1064b638-8504-4de5-8fbb-e3cc3f1239f1.png)
+![image](https://user-images.githubusercontent.com/93835463/153550184-9af9e5fd-c7b0-41db-9004-11de82529a92.png)
+![image](https://user-images.githubusercontent.com/93835463/153550246-7ee2f942-6907-4c18-86a9-4af2b5729e28.png)
+![image](https://user-images.githubusercontent.com/93835463/153550267-e1cc3c47-03b1-429e-9989-b546fe63e953.png)
+
 
 
 
