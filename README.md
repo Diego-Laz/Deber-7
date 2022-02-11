@@ -40,7 +40,9 @@ capitulo 13
 ![image](https://user-images.githubusercontent.com/93835463/153541818-892571db-b6e8-4d6a-978e-65ad3a27dd32.png)
 ![image](https://user-images.githubusercontent.com/93835463/153541823-2cfa88ba-96a3-4696-abf5-08bc3a9a087c.png)
 ![image](https://user-images.githubusercontent.com/93835463/153542335-9ace7a1a-f1b9-4a5e-9de3-3732c1149a7b.png)
-![image](https://user-images.githubusercontent.com/93835463/153542345-b40cee2e-ed98-4274-a95e-25a2623eee1e.png)
+![image](https://user-images.githubusercontent.com/93835463/153546978-a1b1a589-ae47-4ce2-8eb8-9a1b13aabd24.png)
+![image](https://user-images.githubusercontent.com/93835463/153546985-e2bb13cc-f847-4804-8679-5af4183186b8.png)
+
 
 capitulo 14
 
