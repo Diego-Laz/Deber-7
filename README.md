@@ -37,11 +37,14 @@ capitulo 13
 ![image](https://user-images.githubusercontent.com/93835463/153541622-0ac0b75a-66f7-4c36-bbc0-b57b1a97fab0.png)
 ![image](https://user-images.githubusercontent.com/93835463/153541801-0261c139-b7fc-4626-92a2-5ed603852018.png)
 ![image](https://user-images.githubusercontent.com/93835463/153541810-777e88fd-faa3-4b04-8396-8176982cde3b.png)
-![image](https://user-images.githubusercontent.com/93835463/153541818-892571db-b6e8-4d6a-978e-65ad3a27dd32.png)
+![image](https://user-images.githubusercontent.com/93835463/153547780-460f868e-b0d5-4929-abfa-f8430e1b6151.png)
 ![image](https://user-images.githubusercontent.com/93835463/153541823-2cfa88ba-96a3-4696-abf5-08bc3a9a087c.png)
 ![image](https://user-images.githubusercontent.com/93835463/153542335-9ace7a1a-f1b9-4a5e-9de3-3732c1149a7b.png)
 ![image](https://user-images.githubusercontent.com/93835463/153546978-a1b1a589-ae47-4ce2-8eb8-9a1b13aabd24.png)
 ![image](https://user-images.githubusercontent.com/93835463/153546985-e2bb13cc-f847-4804-8679-5af4183186b8.png)
+![image](https://user-images.githubusercontent.com/93835463/153547539-6c0a8600-2744-4313-ae5a-4e39d3687db1.png)
+![image](https://user-images.githubusercontent.com/93835463/153547687-bd973b20-3b19-48d9-9b8b-fe05834f4a21.png)
+
 
 
 capitulo 14
