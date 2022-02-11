@@ -70,8 +70,13 @@ capitulo 14
 
 VIDEOS:
 
+https://www.youtube.com/watch?v=reV0AuxJf_w
+
 CONCLUSIONES:
+
 -En el presente tema pudimos observar un nuevo componente principal en varios circuitos que ya toman un nivel un tanto mayor de complejidad, los inductores, asi analizando sus propiedades electricas asi como el que sucede al conectarlos de diferentes maneras asi como su instalacion en circuitos del tipo CD y CA
+
+-Despues de haber aprendido sobre los inductores y la inductancia aprendimos tambien sobre la inductancia mutua, lo que nos permite intriducirnos a los transformadores, aparatos electricos que se encargan de distribuir la potencia electrica y aprender su importancia en la vida diaria, presentes por ejemplo en los postes electricos y asi tambien aprender a usarlos para futuros circuitos complejos
 
 BIBLIOGRAFÍA:
 
